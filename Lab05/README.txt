@@ -1,0 +1,1 @@
+Jogo de damas, não consegui fazer a parte A,mas a parte b ta bonitinha

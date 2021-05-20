@@ -19,7 +19,7 @@
      * O codigo permite extenção de suas funcionalidades para outras situções, como por exemplo um maior numero de componentes por sala:
     ![blasfisahdpçhsf](https://user-images.githubusercontent.com/80828532/118996140-1082bd00-b95e-11eb-8676-b848ee1aa908.PNG)
   ## Heroi controla seus itens:
-     * Cabe a classe heroi o controle de seus itens, oque ajuda na organização:
+     * Cabe a classe heroi o controle de seus itens, o que ajuda na organização:
       ![safasdasf](https://user-images.githubusercontent.com/80828532/118996786-8be46e80-b95e-11eb-92df-7711f6755247.PNG)
   ## Observação explicativa:
      * A classe sala retorna um inteiro que indica o que deve ser printado ao final de um movimento (movimento é solicitado ao heroi,que solicita para a caverna,que solicita para a sala) para a classe controle do jogo:

@@ -22,7 +22,7 @@
      * Cabe a classe heroi o controle de seus itens, oque ajuda na organização:
       ![safasdasf](https://user-images.githubusercontent.com/80828532/118996786-8be46e80-b95e-11eb-92df-7711f6755247.PNG)
   ## Observação explicativa:
-     * A classe sala retorna um inteiro que indica o que deve ser printado ao final de um moviento (movimento é solicitado ao heroi,que solicita para a caverna,e solicita para a sala) para a classe controle do jogo:
+     * A classe sala retorna um inteiro que indica o que deve ser printado ao final de um movimento (movimento é solicitado ao heroi,que solicita para a caverna,e solicita para a sala) para a classe controle do jogo:
        * Retorna 0 se for uma jogada invalida
        * Retorna 1 para um movimento normal
        * Retorna 2 se o heroi cair no buraco

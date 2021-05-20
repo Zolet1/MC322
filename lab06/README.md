@@ -21,4 +21,15 @@
   ## Heroi controla seus itens:
      * Cabe a classe heroi o controle de seus itens, oque ajuda na organização:
       ![safasdasf](https://user-images.githubusercontent.com/80828532/118996786-8be46e80-b95e-11eb-92df-7711f6755247.PNG)
- 
+  ## Observação explicativa:
+     * A classe sala retorna um inteiro que indica o que deve ser printado ao final de um moviento (movimento é solicitado ao heroi,que solicita para a caverna,e solicita para a sala) para a classe controle do jogo:
+       * Retorna 0 se for uma jogada invalida
+       * Retorna 1 para um movimento normal
+       * Retorna 2 se o heroi cair no buraco
+       * Retorna 3 se o heroi matar o Wumpus
+       * Retorna 4 se o heroi morrer para o wumpus
+       * Retorna 8000 se o heroi vencer o jogo
+       * Soma 10 ao retorno se o heroi sentir uma brisa
+       * Soma 100 ao retorno se o heroi senti fedor
+       * Soma 1000 se o heroi achar o ouro
+     

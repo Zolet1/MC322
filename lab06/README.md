@@ -9,7 +9,7 @@
   * k : equipa a flecha
   * q : sai do jogo
 * Para iniciar o jogo, digite o endereço do arquivo de montagem da caverna e seu nome separados por espaço.
-*  // colocar link dos arquivos (ainda n sei como faz)
+* https://github.com/Zolet1/MC322/tree/main/lab06/src/mc322/lab06
 # Destaques da arquitetura:
 * Aqui vou falar porque acho que meu codigo ficou bom
   ## Organização:

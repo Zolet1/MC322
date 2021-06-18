@@ -27,7 +27,9 @@
 
 ## Componente thinIceController:
 > Recebe endereço para os dados de montagem,monta o jogo, recebe comandos do jogador, solicita movimento do puffle, repassa o que deve ser atualizado pela parte grafica.
+
 ![thinIceController](https://user-images.githubusercontent.com/80828532/122484953-337bad80-cfac-11eb-8ffa-90808741eaff.png)
+
 **Ficha Técnica**
 item | detalhamento
 ----- | -----
@@ -38,12 +40,14 @@ Interfaces | IControl,IMontador
 ### Interfaces
 
 Interfaces associadas a esse componente:
+
 ![interfacesController](https://user-images.githubusercontent.com/80828532/122494126-30d68380-cfbf-11eb-837a-f221eccbff65.png)
 
 
 
 ## Componente thinIceModel:
 > Contem o labirinto que pode ser montado, entidades que podem ser posicionadas no labirinto, puffle que pode receber solicitação de movimento, repassa as atualizações do tabuleiro.
+> 
 ![thinIceModel](https://user-images.githubusercontent.com/80828532/122484995-4aba9b00-cfac-11eb-9b33-5a5eeebfb8fd.png)
 **Ficha Técnica**
 item | detalhamento
@@ -62,6 +66,7 @@ Interfaces associadas a esse componente:
 
 ## Componente thinIceView:
 Monta um espelho do labirinto e recebe as atualizações, monta a interface gráfica.
+
 ![thinIceView](https://user-images.githubusercontent.com/80828532/122485008-50b07c00-cfac-11eb-9d9e-ab02b25d142b.png)
 **Ficha Técnica**
 item | detalhamento
